@@ -1,2 +1,2 @@
-# citizen-crown.github.io
+# citizencrown.github.io
 GitHub Pages repository for Citizen Crown
